@@ -10,7 +10,7 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturoburigo&layout=compact&theme=merko" style="max-width: 100%;"></a>
 </div>
 
-![snake gif](https://github.com/arturoburigo/arturoburigo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/sigespweb22/sigespweb22/blob/output/github-contribution-grid-snake.svg)
 
   
 </div>
