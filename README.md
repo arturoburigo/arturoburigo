@@ -7,14 +7,15 @@
   <a href="https://www.linkedin.com/in/arturoburigo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
-<style>
-div {
-  margin-top: 20px;
-}
-</style>
 
 <div align="center" dir="auto">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=arturoburigo&show_icons=true&theme=merko" style="max-width: 100%;">
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturoburigo&layout=compact&theme=merko" style="max-width: 100%;"></a>
 </div>
   
+
+<style>
+div {
+  margin-top: 20px;
+}
+</style>
