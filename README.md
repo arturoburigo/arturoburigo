@@ -1,14 +1,5 @@
-## Oii eu sou o Arturo Burigo!
+IT Support at @ThomsonReuters and Full Stack Developer.
 
- 
-<div> 
-  <a href="https://instagram.com/arturoburigo target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:burigoarturo3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/arturoburigo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arturoburigo/)](https://www.linkedin.com/in/arturoburigo/) 
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:burigoarturo3@gmail.com)](mailto:burigoarturo3@gmail.com)
 
-
-<div align="center" dir="auto">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=arturoburigo&show_icons=true&theme=merko" style="max-width: 100%;">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturoburigo&layout=compact&theme=merko" style="max-width: 100%;"></a>
-</div>
