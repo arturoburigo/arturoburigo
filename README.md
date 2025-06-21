@@ -6,7 +6,7 @@
 
 <samp>I'm Arturo Burigo, an __American__ 🇺🇸 and __Brazilian__ 🇧🇷 citizen, passionate about solving problems with technology and creating different solutions.</samp>
 
-<samp>I love building automation tools,exploring Machine Learning and AI using Python, APIs and integrations with Java SpringBoot,.</samp>
+<samp>I love building automation tools, exploring Machine Learning and AI using Python, APIs and integrations with Java SpringBoot.</samp>
 
 <samp>Currently diving deep into LLMs, RAG systems, and developing AI-powered solutions with real-world applications.</samp>
 
