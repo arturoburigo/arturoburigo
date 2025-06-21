@@ -1,4 +1,4 @@
-# <samp>Arturo Burigo</samp><img src="https://github.com/arturoburigo/arturoburigo/blob/master/assets/mario_hello_big.gif" width="30px" height="30px">
+# <samp>Arturo Burigo </samp><img src="https://github.com/arturoburigo/arturoburigo/blob/master/assets/mario_hello_big.gif" width="30px" height="30px">
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/arturoburigo/)](https://www.linkedin.com/in/arturoburigo/)
 
