@@ -4,7 +4,7 @@
 
 ## <samp>Hello World!</samp> <img src="https://github.com/arturoburigo/arturoburigo/blob/master/assets/earth.gif" width="22px" height="22px">
 
-<samp>I'm Arturo Burigo, an __American__🇺🇸 and __Brazilian__ 🇧🇷 citizen, passionate about solving problems with technology and creating different solutions.</samp>
+<samp>I'm Arturo Burigo, an __American__ 🇺🇸 and __Brazilian__ 🇧🇷 citizen, passionate about solving problems with technology and creating different solutions.</samp>
 
 <samp>I love building APIs and integrations with Java SpringBoot, automation tools, and exploring Machine Learning and AI using Python.</samp>
 
