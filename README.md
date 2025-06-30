@@ -1,6 +1,13 @@
 # <samp>Arturo Burigo </samp><img src="https://github.com/arturoburigo/arturoburigo/blob/master/assets/mario_hello_big.gif" width="30px" height="30px">
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/arturoburigo/)](https://www.linkedin.com/in/arturoburigo/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/arturoburigo/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@burigoarturo3">
+    <img src="https://img.shields.io/badge/Medium-000000.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+</p>
 
 ## <samp>Hello World!</samp> <img src="https://github.com/arturoburigo/arturoburigo/blob/master/assets/earth.gif" width="22px" height="22px">
 
